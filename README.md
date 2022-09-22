@@ -1,21 +1,29 @@
-# Oie me chamo Maria Eduarda Guedes.
-<br>
-**Sou estudante de Ciência da Computação no IFSP e estagiária de Data Science na Dadosfera!**</br>
+# Bem vindos ao meu perfil.
+
+#### Sou estudante de Ciência da Computação no IFSP e estagiária de Data Science na Dadosfera!
+
 <div align="center">
   <a href="https://github.com/mariaeduaruda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduaruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduaruda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduaruda&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduaruda&layout=compact&langs_count=7"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+#### Minhas Habilidades:
+<div>
+<img alt="Maria-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Maria-pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img alt="Maria-numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img alt="Maria-seabron" height="29" src="https://github.com/pedrrocabral/Projeto-de-Machine-Learning/blob/f47d5cdc5e589d36542d1d370818e35c60a17d14/img/seaborn_bdges.png">&nbsp;
+<img alt="Maria-matplotlib" height="29" src="https://github.com/pedrrocabral/Projeto-de-Machine-Learning/blob/837a171c5e8e1e4a2d3303123b98e04c699d804a/img/Matplotlib.png">&nbsp;
+<img alt="Maria-plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+<img alt="Maria-jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+<img alt="Maria-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Maria-sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
   src="https://picrew.me/shareImg/org/202209/197705_hoBjhBAW.png">
-
 </div>
   
-  ##
+  #### Meu contato:
  
 <div> 
   <a href="https://br.linkedin.com/in/mariaeduaruda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
