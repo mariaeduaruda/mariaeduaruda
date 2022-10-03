@@ -1,6 +1,6 @@
 # Bem vindos ao meu perfil.
 
-#### Sou estudante de Ciência da Computação no IFSP e estagiária de Data Science na Dadosfera!
+#### Sou estudante de Ciência da Computação no IFSP e estagiária de Data Solutions Engineering.
 
 <div align="center">
   <a href="https://github.com/mariaeduaruda">
