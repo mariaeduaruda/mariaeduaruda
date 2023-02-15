@@ -20,7 +20,7 @@
 <img alt="Maria-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="Maria-sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
-  src="https://picrew.me/shareImg/org/202209/197705_hoBjhBAW.png">
+  src="[https://picrew.me/shareImg/org/202209/197705_hoBjhBAW.png](https://cdn.picrew.me/shareImg/org/202302/197705_ilPjajaQ.png)">
 </div>
   
   #### Meu contato:
