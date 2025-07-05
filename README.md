@@ -1,6 +1,6 @@
 # Bem vindos ao meu perfil.
 
-#### Sou estudante de Ciência da Computação no IFSP e estagiária de Data Science.
+#### Sou Cientista de Dados e estudante de Ciência da Computação no IFSP.
 
 <div align="center">
   <a href="https://github.com/mariaeduaruda">
